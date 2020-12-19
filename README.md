@@ -42,3 +42,6 @@ Your age is {yourAge}; that's a good time to start programming!
 Read three numbers from the standard input. Assume that all the numbers will be given on separate lines.
 
 Instead of `{yourAge}`, the bot will print the age determined according to the special formula discussed above.
+
+## Stage 4
+In this stage, you will program the bot to count from 0 to any positive number users enter.
